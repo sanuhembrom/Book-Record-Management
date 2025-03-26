@@ -1,0 +1,45 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "Sanu",
+            "surname": "Hembrom",
+            "email": "user@email.com",
+            "issuedbook": "1",
+            "issueDate": "2025-01-01",
+            "returnDate": "2025-01-15",
+            "subscriptionType": "Premium",
+            "subscriptionDate": "2025-01-01"
+
+        },
+        {
+          "id": "2",
+          "name": "Sanu",
+          "surname": "Hembrom",
+          "email": "user@email.com",
+          "issuedBook": "2",
+          "issueDate": "2025-07-01",
+          "returnDate": "2025-10-15",
+          "subscriptionType": "Basic",
+          "subscriptionDate": "2025-07-01"
+        },
+        {
+          "id": "3",
+          "name": "Sanu",
+          "surname": "Hembrom",
+          "email": "user@email.com",
+          "issueDate": "2025-01-01",
+          "returnDate": "2025-01-15",
+          "subscriptionType": "Premium",
+          "subscriptionDate": "2025-01-01"
+        },
+        {
+          "id": "3",
+          "name": "Sanu",
+          "surname": "Hembrom",
+          "email": "user@email.com",
+          "subscriptionType": "Premium",
+          "subscriptionDate": "2025-01-01"
+        }
+    ]
+}
